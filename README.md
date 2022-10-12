@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-I'm a Full Stack Developer currently working with ReactJS, NodeJS, ExpressJS, Python, Flask, Django, PostgreSQL and MongoDB. I always like working in 🐧️Linux Environment. I'm a knowledge seeker & I love to learn new 💻 Technologies. 🔭 I’m currently looking for new opportunities as software engineer 👯 I’m looking to collaborate on openSource projects. 🤔 I’m looking for help with getting to FAANG 💬 Ask me about (if i can help, sure! i will do.): -Digital Marketing -Software engineering -Business -SEO consulting -Social Media Advertising -E-commerce
+I'm a Full Stack Developer currently working with ReactJS, NodeJS, Python, Django, PostgreSQL. I always like working in 🐧️Linux Environment. I'm a knowledge seeker & I love to learn new 💻 Technologies. 🔭 I’m currently looking for new opportunities as software engineer 👯 I’m looking to collaborate on openSource projects. 🤔 I’m looking for help with getting to FAANG 💬 Ask me about (if i can help, sure! i will do.): -Digital Marketing -Software engineering -Business -SEO consulting -Social Media Advertising -E-commerce
 
 * 🌍  I'm based in Libreville
 * ✉️  You can contact me at [francisseneve@gmail.com](mailto:francisseneve@gmail.com)
 * 🧠  I'm learning AWS, CI/CD, Redux and Context API
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I'm Batman, Tell Everyone
+
 
 ### Skills
 
