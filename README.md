@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-I'm a Full Stack Developer currently working with ReactJS, NodeJS, Python, Django, PostgreSQL. I always like working in 🐧️Linux Environment. I'm a knowledge seeker & I love to learn new 💻 Technologies. 🔭 I’m currently looking for new opportunities as software engineer 👯 
+I'm a Full Stack Developer currently working with React.js, Node.js, Python, Django, Django Rest Framework, PostgreSQL. I always like working in 🐧️Linux Environment. I'm a knowledge seeker & I love to learn new 💻 Technologies. 🔭 I’m currently looking for new opportunities as software engineer 👯 
 
 * 🌍  I'm based in Libreville
 * ✉️  You can contact me at [francisseneve@gmail.com](mailto:francisseneve@gmail.com)
