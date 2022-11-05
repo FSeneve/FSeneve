@@ -8,7 +8,6 @@ I'm a Software Engineer currently working with React.js, Node.js, Python, Django
 
 * 🌍  I'm based in Libreville
 * ✉️  You can contact me at [francisseneve@gmail.com](mailto:francisseneve@gmail.com)
-* 🧠  I'm learning AWS, CI/CD, Kubernetes and Terraform
 * 🤝  I'm open to collaborating on Projects
 
 
