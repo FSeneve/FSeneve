@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ------------------------
 
-I'm a JavaScript Developer currently working with React.js, Node.js, Next.js, TypeScript, PostgreSQL, Prisma, Redux and MongoDB. I always like working in large scalable projects with other Software Engineer. I'm a knowledge seeker & I love to learn new 💻 Technologies. 
+I'm a Software Engineer with 3 years of experience. I always like working in large scalable projects with other Software Engineer. I'm a knowledge seeker & I love to learn new 💻 Technologies. 
 * 🌍  I'm based in Libreville
 * ✉️  You can contact me at [francisseneve@gmail.com](mailto:francisseneve@gmail.com)
 * 🤝  I'm open to collaborating on Projects
